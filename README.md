@@ -1,4 +1,4 @@
-﻿SkyHook by Skyscanner
+﻿SkyHook
 ===
 *SQL Server Stored Procedure interface to Google Analytics*
 
@@ -37,7 +37,7 @@ Compilation
 * Checkout the *google-gdata* code from Google Code's [SVN page](http://code.google.com/apis/gdata/)
 * In Visual Studio, open the *google-gdata* project and set the solution build mode to 'Release' under the menu option 'Build' -> 'Configuration Manager'
 * Build the 'Analytics' project in *google-gdata*
-* Checkout the *skyhook* code from Skyscanner's [github page](https://github.com/skyscanner/skyhook)
+* Checkout the *skyhook* [code](https://github.com/jayaddison/skyhook)
 * Copy the `Google.GData.Client.dll` and `Google.GData.Analytics.dll` binaries from `<google-gdata>\clients\cs\src\analytics\bin\Release` to `<skyhook>\Google\lib`
 * Build the *skyhook* solution
 
@@ -45,7 +45,7 @@ References
 ---
 
 - [Skyscanner](http://www.skyscanner.net/)
-- [SkyHook on github](https://github.com/skyscanner/skyhook)
+- [SkyHook on github](https://github.com/jayaddison/skyhook)
 - [GData.NET on Google Code](http://code.google.com/apis/gdata/)
 - [Google Analytics API Developer Reference](http://code.google.com/apis/analytics/docs/)
 
