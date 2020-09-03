@@ -52,5 +52,3 @@ References
 Licensing and Contact
 ---
 This code is public domain, and is provided as-is, without express or implied warranty of any kind.
-
-That said, you are welcome to fork the project on github and apply any fixes or changes that you feel are useful, and/or contact Skyscanner or the author ([James Addison](mailto:jay@jp-hosting.net)) with issue reports or github pull requests.
