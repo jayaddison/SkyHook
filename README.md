@@ -44,10 +44,10 @@ Compilation
 References
 ---
 
-[Skyscanner](http://www.skyscanner.net/)
-[SkyHook on github](https://github.com/skyscanner/skyhook)
-[GData.NET on Google Code](http://code.google.com/apis/gdata/)
-[Google Analytics API Developer Reference](http://code.google.com/apis/analytics/docs/)
+- [Skyscanner](http://www.skyscanner.net/)
+- [SkyHook on github](https://github.com/skyscanner/skyhook)
+- [GData.NET on Google Code](http://code.google.com/apis/gdata/)
+- [Google Analytics API Developer Reference](http://code.google.com/apis/analytics/docs/)
 
 Licensing and Contact
 ---
